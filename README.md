@@ -15,8 +15,8 @@ Construção de um aplicativo Full Stack JavaScript para rastreamento de problem
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/Sub-Dev/freecodecamp_issuetracker
+cd freecodecamp_issuetracker
 ```
 
 ### 2️⃣ Instalar dependências
