@@ -32,6 +32,7 @@ Crie um arquivo `.env` na raiz do projeto e configure:
 ```
 PORT=3000
 NODE_ENV=test
+MONGO_URI=mongodb
 ```
 
 ### 4️⃣ Rodar o servidor
