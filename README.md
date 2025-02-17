@@ -32,6 +32,7 @@ Crie um arquivo `.env` na raiz do projeto e configure:
 ```
 PORT=3000
 NODE_ENV=test
+MONGO_URI=mongodb
 ```
 
 ### 4️⃣ Rodar o servidor
@@ -71,7 +72,11 @@ npm run test
 
 ## 🔗 Links Importantes
 
+<<<<<<< HEAD
 - 📂 **Código-Fonte:** [GitHub Repo](https://github.com/Sub-Dev/freecodecamp_issuetracker)
+=======
+- 📂 **Código-Fonte:** [GitHub Repo]([https://your-git-repo.url/files](https://github.com/Sub-Dev/freecodecamp_issuetracker))
+>>>>>>> 19dc6af7d606e3236f98f3923e753b934790cb67
 
 ---
 
