@@ -71,10 +71,21 @@ npm run test
 
 ## 🔗 Links Importantes
 
-- 📂 **Código-Fonte:** [GitHub Repo](https://your-git-repo.url/files)
-
-📌 Lembre-se de enviar o link do seu código-fonte!
+- 📂 **Código-Fonte:** [GitHub Repo](https://github.com/Sub-Dev/freecodecamp_issuetracker)
 
 ---
 
-Feito com ❤️ por Anthony Marin 🚀
+## 👥 Autor
+
+<table>
+ <tr>
+ <td alinhar="centro">
+ <a href="https://github.com/Sub-Dev" target="_blank">
+ <img src="https://avatars.githubusercontent.com/u/68450692?v=4" alt="Anthony-Marin" height="30" width="30"/>
+ </a>
+ </td>
+ <td>
+ <strong>Anthony Marin</strong> (Sub-Dev) - <a href="https://github.com/Sub-Dev">Perfil no GitHub</a>
+ </td>
+ </tr>
+</table>
