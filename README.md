@@ -72,13 +72,7 @@ npm run test
 
 ## 🔗 Links Importantes
 
-<<<<<<< HEAD
 - 📂 **Código-Fonte:** [GitHub Repo](https://github.com/Sub-Dev/freecodecamp_issuetracker)
-=======
-- 📂 **Código-Fonte:** [GitHub Repo]([https://your-git-repo.url/files](https://github.com/Sub-Dev/freecodecamp_issuetracker))
->>>>>>> 19dc6af7d606e3236f98f3923e753b934790cb67
-
----
 
 ## 👥 Autor
 
